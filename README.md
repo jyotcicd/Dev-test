@@ -1,3 +1,3 @@
 # Dev-test
 
-Testing Git connection for REPOTING_DEV environment
+Testing Git connection for REPORTING_DEV environment
